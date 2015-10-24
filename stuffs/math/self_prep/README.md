@@ -1,14 +1,14 @@
 ***
 List of Courses
 ***
-[1] <a href="">Linear Algebra</a><br>
-[2] <a href="">Algebra-I </a><br>
-[3] <a href="">Real Analysis-I </a><br>
-[4] <a href="">Basic Algebra </a><br>
-[5] <a href="">General Topology </a><br>
-[6] <a href="">Measure Theory </a><br>
-[7] <a href="">Ordinary Differential Equations </a><br>
-[8] <a href="">Complex Analysis </a><br>
+[1] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/1_linear_algebra.md">Linear Algebra</a><br>
+[2] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/2_algebra_1.md">Algebra-I </a><br>
+[3] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/3_real_analysis_1.md">Real Analysis-I </a><br>
+[4] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/4_basic_algebra.md">Basic Algebra </a><br>
+[5] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/5_general_topology.md">General Topology </a><br>
+[6] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/6_measure_theory.md">Measure Theory </a><br>
+[7] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/7_ordinary_differential_equations.md">Ordinary Differential Equations </a><br>
+[8] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/8_complex_analysis.md">Complex Analysis </a><br>
 [9] <a href="">Multivariable Calculus </a><br>
 [10] <a href="">Functional Analysis </a><br>
 [11] <a href="">Operators on Hilbet space </a><br>
