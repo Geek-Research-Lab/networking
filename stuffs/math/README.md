@@ -1,9 +1,5 @@
 ***
-Basic Pre-requistes: <br>
-Must be familiar in mathematics at an undergraduate level.
-***
-***
-List of Subjects
+List of Courses
 ***
 [1] <a href="">Linear Algebra</a><br>
 [2] <a href="">Algebra-I </a><br>
@@ -73,3 +69,7 @@ List of Subjects
 [66] <a href="">Modern Information Systems </a><br>
 [67] <a href="">Finite Fields and their Applications </a><br>
 [68] <a href="">An introduction to number theory & cryptography </a><br>
+***
+Basic Pre-requistes: <br>
+Must be familiar in mathematics at an undergraduate level.
+***
