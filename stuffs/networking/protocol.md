@@ -7,7 +7,7 @@ Some of key elements that were used are: <br>
 <br>
 <b>Syntax:</b><br>
 It deals with the structure of the data. <br>
-The first 8 bits is the sender address, the next 8 bits is the receiver address and the remaining bits is nessage. <br>
+The first 8 bits is the sender address, the next 8 bits is the receiver address and the remaining bits are the message. <br>
 <br>
 <b>Semantics:</b><br>
 It deals with each section of the bits. <br>
