@@ -60,16 +60,19 @@ List of Courses
 [57] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/57_biostatistics.md">Bio-Statistics </a><br>
 [58] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/58_statistical_quality_control.md">Statistical Quality Control </a><br>
 [59] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/59_statistical_decision_theory.md">Statistical Decision Theory </a><br>
-[60] <a href="">Non-parametric Statistics </a><br>
-[61] <a href="">Stochastic Programming and Applications </a><br>
-[62] <a href="">Mathematical Theory of Reliability </a><br>
-[63] <a href="">Computer Programming & Utilization </a><br>
-[64] <a href="">Formal Methods in CS </a><br>
-[65] <a href="">Matrix Computations </a><br>
-[66] <a href="">Modern Information Systems </a><br>
-[67] <a href="">Finite Fields and their Applications </a><br>
-[68] <a href="">An introduction to number theory & cryptography </a><br>
+[60] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/60_non_parametric_statistics.md">Non-parametric Statistics </a><br>
+[61] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/61_stochastic_programming_and_applications.md">Stochastic Programming and Applications </a><br>
+[62] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/62_mathematical_theory_of_reliability.md">Mathematical Theory of Reliability </a><br>
+[63] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/63_computer_programming_and_utilization.md">Computer Programming & Utilization </a><br>
+[64] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/64_formal_methods_in_cs.md">Formal Methods in CS </a><br>
+[65] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/65_matrix_computations.md">Matrix Computations </a><br>
+[66] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/66_modern_info_sys.md">Modern Information Systems </a><br>
+[67] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/67_finite_fields_and_their_applns.md">Finite Fields and their Applications </a><br>
+[68] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/68_intro_number_theory_and_crypto.md">An introduction to number theory & cryptography </a><br>
 ***
 Basic Pre-requistes: <br>
-Must be familiar in mathematics at an undergraduate level.
+Must be atleast familiar in mathematics at an undergraduate level.
+***
+***
+Inspired from <a href="http://www.math.iitb.ac.in/">IIT-Bombay</a> syllabus
 ***
