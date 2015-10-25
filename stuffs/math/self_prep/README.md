@@ -58,8 +58,8 @@ List of Courses
 [55] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/55_experimental_designs.md">Experimental Designs </a><br>
 [56] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/56_intro_derivatives_pricing.md">Introduction to Derivatives Pricing </a><br>
 [57] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/57_biostatistics.md">Bio-Statistics </a><br>
-[58] <a href="">Statistical Quality Control </a><br>
-[59] <a href="">Statistical Decision Theory </a><br>
+[58] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/58_statistical_quality_control.md">Statistical Quality Control </a><br>
+[59] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/math/self_prep/workloads/59_statistical_decision_theory.md">Statistical Decision Theory </a><br>
 [60] <a href="">Non-parametric Statistics </a><br>
 [61] <a href="">Stochastic Programming and Applications </a><br>
 [62] <a href="">Mathematical Theory of Reliability </a><br>
