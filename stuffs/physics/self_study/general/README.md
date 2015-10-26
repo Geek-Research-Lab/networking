@@ -4,7 +4,7 @@ List of Courses
 [1] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/physics/self_study/general/workloads/1_mathematical_physics.md">Mathematical Physics I</a><br>
 [2] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/physics/self_study/general/workloads/2_classical_mechanics.md">Classical Mechanics</a><br>
 [3] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/physics/self_study/general/workloads/3_quantum_mechanics_1.md">Quantum Mechanics I</a><br>
-[4] <a href="">Measurement Techniques</a><br>
+[4] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/physics/self_study/general/workloads/15_measurement_techniques.md">Measurement Techniques</a><br>
 [5] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/physics/self_study/general/workloads/4_electronics.md">Electronics</a><br>
 [6] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/physics/self_study/general/workloads/5_mathematical_physics_2.md">Mathematical Physics II</a><br>
 [7] <a href="https://github.com/Geek-Research-Lab/networking/blob/master/stuffs/physics/self_study/general/workloads/6_statistical_mechanics.md">Statistical Mechanics</a><br>
