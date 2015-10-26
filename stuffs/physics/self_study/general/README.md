@@ -19,3 +19,6 @@ List of Courses
 Pre-requisites: <br>
 Must be atleast a little bit familiar with Physics and Mathematics.
 ***
+***
+Inspired from <a href="http://www.iitg.ac.in/phy/">IIT-Guwahati</a> syllabus.
+***
