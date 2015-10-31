@@ -4,7 +4,7 @@
 ***
 If you find any better syllabus better than the ones that i posted, then please do <a href="https://github.com/Geek-Research-Lab/networking/issues/new">open up an issue</a>.
 <br>
-Only Indian universities/college syllabuses are accepted.
+Only Indian universities/college syllabuses are accepted except IISc.
 <br>
 Please Don't send me direct pull requests.
 ***
