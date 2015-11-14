@@ -42,3 +42,7 @@ Digital Design Flow on Field Programmable Gate Array (FPGA)
 4. Post routing simulation for performance analysis <br>
 5. FGPA specific structural optimization with respect to speed and area <br>
 6. Configuration bitstream generation for actual implementation on FGPA <br>
+
+***
+Credits: <a href="http://www.ecdept.iitkgp.ernet.in/">IIT Kharagpur</a> (few extracted)
+***
