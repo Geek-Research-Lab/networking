@@ -33,3 +33,12 @@ Optimization at various levels
 4. Fault-tolerant architectures <br>
 5. Speed area power accuracy trade-off <br>
 6. Issues related to mixed signal and SoC design <br>
+```
+Digital Design Flow on Field Programmable Gate Array (FPGA)
+```
+1. Behavioural and structural description representation and design entry <br>
+2. Validation through functional simulation <br>
+3. Partitioning, Placement and Routing <br>
+4. Post routing simulation for performance analysis <br>
+5. FGPA specific structural optimization with respect to speed and area <br>
+6. Configuration bitstream generation for actual implementation on FGPA <br>
