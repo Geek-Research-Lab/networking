@@ -27,3 +27,9 @@ Design of VLSI Architecture for Real-Time Signal Processing
 ***
 Optimization at various levels
 ***
+1. Mapping algorithms into architectures <br>
+2. Optimization of combinatorial and sequential circuits <br>
+3. Datapath and Control Design <br>
+4. Fault-tolerant architectures <br>
+5. Speed area power accuracy trade-off <br>
+6. Issues related to mixed signal and SoC design <br>
