@@ -15,4 +15,8 @@ A particular pattern is analyzed.<br>
 Example: IP routing <br>
 <br>
 <b>Timings:</b><br>
-How data can be sent faster? And when data can be sent? This entirely deals with the network performance.
+How data can be sent faster? And when data can be sent? This entirely deals with the network performance. <br>
+<br>
+<b>Port:</b><br>
+Port is an endpoint communicator that is linked via IP Address of an host by 16-bit number. <br>
+<br>
